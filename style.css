@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: linear-gradient(#8cfae9 0%,#43b7fa 100%);
+}
+.line{
+    width:200px;
+    height:10px;
+    margin: auto;
+    background-color:black;
+}
+#menu{
+    list-style: none;
+    float: left;
+    top:30px;
+    left:30px;
+    position: fixed;
+}
+.hobby{
+    float: left;
+    padding:5px;
+}
